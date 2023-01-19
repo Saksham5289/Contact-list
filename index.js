@@ -46,7 +46,7 @@ app.use(express.static('assets'));//app.use generally almost always signifies a 
 //     next();
 // })
 
-var contactList123asdasd  = [
+var contactList123asdasdasadsd = [
     {
         name : "Arpan",
         phone : "111111"
